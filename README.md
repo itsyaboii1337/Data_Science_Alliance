@@ -12,7 +12,7 @@ Our goal is to refine medical data and extract useful information from it.
 There's a lot of different questions one could ask depending on the concidered data.
 An example file is provided in this repositoy where the LIDC-IDRI dataset is briefly explored and some questions are investigated. This dataset contains 1013 thoracic CT scans, and 2669 lung nodules (tumors) annoted by 4 different radiologists. Additionally some spreadsheets are provided which contain more information regarding count, size and malignancy of the tumors. Some ideas:
 
-*It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The anotations can be turned into 3D shapes of which the sphericity can be determined.
+* It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The anotations can be turned into 3D shapes of which the sphericity can be determined.
 
 ![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/Sphericity.png)
 
