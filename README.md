@@ -22,7 +22,7 @@ Some ideas:
 
 * This specific dataset is perticularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Eitherway, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
 
-![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png)
+![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png | width=100)
 
 * Adding up all the annotations could provide insight into which areas of the lungs are most likely to develope tumors and result in a sort of "probability map" wihtin a standardized lung volume
 
