@@ -6,7 +6,7 @@ In many countries (almost all developed countries), hospitals are by law require
 As (nascent) datascientists we recognize that this medical data may contain information that could help improve health care.
 It is therefore very dissapointing that as of today the large majority of medical data is simply stored and left unused, primarily due to privacy laws and regulations.
 However, the consesus regarding these laws is starting to shift and effort are being made to help the medical field reap the benefits of Data Science. One of these effort is a website called "The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/
-Which contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
+which contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
 In short, our goal is to refine medical data and extract useful information from it.
 
