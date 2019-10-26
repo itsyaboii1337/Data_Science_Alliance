@@ -1,4 +1,4 @@
-# Title
+# Applying data analysis on medical data to help improve society's quality of life
 
 # Abstract
 Large hospitals can generate up to hundreds of terabytes of medical data each year and this amount only increases with time.
