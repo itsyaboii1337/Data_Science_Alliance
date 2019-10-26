@@ -12,7 +12,7 @@ In short, our goal is to refine medical data and extract useful information from
 
 # Research questions
 There's a lot of different questions one could ask depending on the concidered data.
-An example file is provided in this repositoy where the LIDC-IDRI dataset is briefly explored and some questions are investigated. This dataset contains 1013 thoracic CT scans, and 2669 lung nodules (tumors) annoted by 4 different radiologists. Additionally some spreadsheets are provided which contain more information regarding count, size and malignancy of the tumors. 
+An example file is provided in this repositoy where the LIDC-IDRI dataset is briefly explored and some questions are investigated (results below). This dataset contains 1013 thoracic CT scans, and 2669 lung nodules (tumors) annoted by 4 different radiologists. Additionally some spreadsheets are provided which contain more information regarding count, size and malignancy of the tumors.
 
 Some ideas:
 
@@ -20,7 +20,21 @@ Some ideas:
 
 ![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/Sphericity.png)
 
+* This specific dataset is perticularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Eitherway, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
 
+![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png)
+
+* Adding up all the annotations could provide insight into which areas of the lungs are most likely to develope tumors and result in a sort of "probability map" wihtin a standardized lung volume
+
+![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/prob_map.png)
+
+* Since the scale of each scan is know one could estimate, for example, the size/BMI of the patient and find correlation with the annotated tumors. For simplcity I tried this by segmenting the lungs and using the lung volume instead.
+
+![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/corr.png)
+
+In this case a pearson correlation of -0.03 was found, which is rather insignificant.
+
+Note: see Some_Examples.ipynb for further details on these results
 
 
 # Dataset
