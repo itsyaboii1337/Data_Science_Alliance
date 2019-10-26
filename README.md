@@ -22,11 +22,12 @@ Some ideas:
 
 * This specific dataset is perticularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Eitherway, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
 
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png" alt="alt text" width="350" height="350">
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png" alt="alt text" width="380" height="350">
 
 * Adding up all the annotations could provide insight into which areas of the lungs are most likely to develope tumors and result in a sort of "probability map" wihtin a standardized lung volume
 
-![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/prob_map.png)
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/prob_map.png" alt="alt text" width="350" height="350">
+
 
 * Since the scale of each scan is know one could estimate, for example, the size/BMI of the patient and find correlation with the annotated tumors. For simplcity I tried this by segmenting the lungs and using the lung volume instead.
 
