@@ -43,6 +43,7 @@ Note: see Some_Examples.ipynb for further details on these results and how they 
 
 # Dataset
 "The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
+
 WE SHOULD TRY TO FIND MORE MEDICAL DATA, PERHAPS NOT IMAGING DATA.
 
 Some candidates:
