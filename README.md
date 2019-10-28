@@ -63,7 +63,7 @@ You can find the description of it here : https://www.nicer.org/assets/files/dat
 # A list of internal milestones up until project milestone 2
 
 ## Data exploration 
-* Request the datasets mentioned above. Fin alternatives if we can't get them. 
+* Request the datasets mentioned above. Find alternatives if we can't get them. 
 * Start exploring and cleaning the different datasets, find additional sources of data if needed. 
 * Compare and confront the different datasets
 
