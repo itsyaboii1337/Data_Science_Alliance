@@ -52,7 +52,8 @@ Some candidates:
 * http://ghdx.healthdata.org/?fbclid=IwAR3PlLKVO_eOGYSjjPvuhDMzhpsCZC_WnYslJPYmOc7NgqC84XplYkVS-jU
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+* Work out the above ideas and improve upon them
+* find more interesting datasets in TCIA or others.
 
 # Questions for TAa
 It would be nice to have another source of medical data, perhaps not imaging data, does anyone happen to have a suggestion?
