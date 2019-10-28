@@ -42,9 +42,12 @@ Note: see Some_Examples.ipynb for further details on these results
 
 
 # Dataset
-One of these effort is a website called "The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/
-Which contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
+"The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 WE SHOULD TRY TO FIND MORE MEDICAL DATA, PERHAPS NOT IMAGING DATA.
+Some candidates:
+https://www.nicer.org/assets/files/data/ncd_4.1_abbrev_version_201706.pdf
+https://www.nicer.org/en/data/nicer-database/
+http://ghdx.healthdata.org/?fbclid=IwAR3PlLKVO_eOGYSjjPvuhDMzhpsCZC_WnYslJPYmOc7NgqC84XplYkVS-jU
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
