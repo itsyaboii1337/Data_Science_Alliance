@@ -38,7 +38,7 @@ An example file is provided in this repositoy where the LIDC-IDRI dataset is bri
 
 In this case a pearson correlation of -0.03 was found, which is rather insignificant.
 
-Note: see Some_Examples.ipynb for further details on these results
+Note: see Some_Examples.ipynb for further details on these results and how they could be improves in the future.
 
 
 # Dataset
