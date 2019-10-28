@@ -47,12 +47,33 @@ Note: see Some_Examples.ipynb for further details on these results and how they 
 WE SHOULD TRY TO FIND MORE MEDICAL DATA, PERHAPS NOT IMAGING DATA.
 
 Some candidates:
-* https://www.nicer.org/assets/files/data/ncd_4.1_abbrev_version_201706.pdf
+
+### Nicer 
 * https://www.nicer.org/en/data/nicer-database/
+
+
+The nicer dataset contains cancer data (type of cancer, diagnosis, death...) for Switzerland by cantons. It seems to be complete and well organized. It respects medial naming conventions.
+We need to request the access. 
+
+You can find the description of it here : https://www.nicer.org/assets/files/data/ncd_4.1_abbrev_version_201706.pdf
+
+### Ghdx health data 
 * http://ghdx.healthdata.org/?fbclid=IwAR3PlLKVO_eOGYSjjPvuhDMzhpsCZC_WnYslJPYmOc7NgqC84XplYkVS-jU
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+
+## Data exploration 
+* Request the datasets mentioned above. Fin alternatives if we can't get them. 
+* Start exploring and cleaning the different datasets, find additional sources of data if needed. 
+* Compare and confront the different datasets
+
+## Research questions 
+* From this, refine the exploration ideas and the research question.
+
+## General & team management  
+* Package the work and define tasks and a more precise timeline. 
+* We will refine or list of internal milestone with the data we get
+* Refresh on Spark 
 
 # Questions for TAa
 It would be nice to have another source of medical data, perhaps not imaging data, does anyone happen to have a suggestion?
