@@ -31,7 +31,7 @@ This specific dataset is particularly interesting for machine learning and compu
 
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png" alt="alt text" width="380" height="350">
 
-* Are there certain regions in the lungs that are much more likely to develope lung tumors or are the rather homogeneously distributed?
+* Are there certain regions in the lungs that are more likely to develop lung tumors or are they rather homogeneously distributed?
 
 Adding up all the annotations could provide insight into which areas of the lungs are most likely to develop tumors and result in a sort of "probability map" within a standardized lung volume
 
