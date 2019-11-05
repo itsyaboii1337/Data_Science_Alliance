@@ -17,7 +17,7 @@ An example file is provided in this repository where the LIDC-IDRI dataset is br
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/ctscan.png" alt="alt text" width="800" height="400">
 
 
-**Some ideas:**
+**Somme possible research questions:**
 
 * It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The annotations can be turned into 3D shapes of which the sphericity can be determined.
 
