@@ -19,20 +19,28 @@ An example file is provided in this repository where the LIDC-IDRI dataset is br
 
 **Somme possible research questions:**
 
-* It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The annotations can be turned into 3D shapes of which the sphericity can be determined.
+* Is there a strong correlation between shape of tumors and their malignancy?
+
+It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The annotations can be turned into 3D shapes of which the sphericity can be determined.
 
 ![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/Sphericity.png)
 
-* This specific dataset is particularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Either way, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
+* How well do the diagnosis agree of different radiologists and do they contract each other?
+
+This specific dataset is particularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Either way, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
 
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/annotations.png" alt="alt text" width="380" height="350">
 
-* Adding up all the annotations could provide insight into which areas of the lungs are most likely to develop tumors and result in a sort of "probability map" within a standardized lung volume
+* Are there certain regions in the lungs that are much more likely to develope lung tumors or are the rather homogeneously distributed?
+
+Adding up all the annotations could provide insight into which areas of the lungs are most likely to develop tumors and result in a sort of "probability map" within a standardized lung volume
 
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/prob_map.png" alt="alt text" width="300" height="300">
 
 
-* Since the scale of each scan is known, one could estimate, for example, the size/BMI of the patient and find correlation with the annotated tumors. For simplicity I tried this by segmenting the lungs and using the lung volume instead.
+* Is there a correlation between BMI and the prevalence of lung cancer?
+
+Since the scale of each scan is known, one could estimate, for example, the size/BMI of the patient and find correlation with the annotated tumors. For simplicity I tried this by segmenting the lungs and using the lung volume instead.
 
 ![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/corr.png)
 
