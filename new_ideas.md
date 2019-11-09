@@ -1,5 +1,5 @@
 # Overview of possible research questions for different datasets
-## LIDV_IDRI (Lung Cancer Imaging Dataset)
+## LIDC_IDRI (Lung Cancer Imaging Dataset)
 Link: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#f633413761b746ff9e49dd8f0d5b679d
 
 **Possible research questions:**
