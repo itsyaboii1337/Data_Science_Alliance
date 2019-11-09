@@ -14,7 +14,7 @@ In short, our goal is to refine medical data and extract useful information from
 There's a lot of different questions one could ask depending on the considered data.
 An example file is provided in this repository where the LIDC-IDRI dataset is briefly explored and some questions are investigated (results below). This dataset contains 1013 thoracic CT scans, and 2669 lung nodules (tumors) annotated by 4 different radiologists. Additionally some spreadsheets are provided which contain more information regarding count, size and malignancy of the tumors.
 
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/ctscan.png" alt="alt text" width="800" height="400">
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width="800" height="400">
 
 
 **Somme possible research questions:**
