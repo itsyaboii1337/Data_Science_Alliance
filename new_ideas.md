@@ -28,6 +28,7 @@ Link: https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 * This dataset contains information that can be interesting for us and for the public. We can ask quite a few research questions.
 * I wonder whether we will really discover information here that is not already common knowledge. I can't really think of any more complicated or interesting research questions.
 * It is rather limited in each of the feature categories (except for maybe demographics), as only three behavioural features are in the dataset for example, also no distinction is made between different cardiovascular diseases, and we don't have any information on mortality.
+*NOTE: On Kaggle, there is no source given for the data. Consequently I would say we should not use this dataset, as we are not able to verify it or cite it. 
 
 ## Breast cancer datasets
 Link: https://www.kaggle.com/yuqing01/breast-cancer and/or https://www.kaggle.com/hdza1991/breast-cancer-wisconsin-data-set
@@ -40,6 +41,8 @@ Link: https://www.kaggle.com/yuqing01/breast-cancer and/or https://www.kaggle.co
 * This dataset is rather limited with regards to interesting labels and conclusions.
 * It contains many features, but these again require extensive domain knowledge to draw interesting conclusions from them, and will probably not be very interesting to present to the public.
 
+The data here is given for cells. If we could find other similar datasets, we could perhaps compare the predictive/characteristic features of breast cancer cells with other cancers?
+
 ## Global Burden of Disease
 Link: http://ghdx.healthdata.org/gbd-2017 (http://ghdx.healthdata.org/gbd-results-tool)
 
@@ -49,9 +52,18 @@ Link: http://ghdx.healthdata.org/gbd-2017 (http://ghdx.healthdata.org/gbd-result
 * Did this change over the years? (data from 1990 to 2017)
 * Is there a link between higher prevalence of these diseases and certain risk factors? (e.g. diet, pollution, occupational hazards, ...)
 * How many people are contracting cancer/a cardiovascular disease each year, how many are living with it in a controlled fashion, and how many are dying from it each year? Is there a difference in how long people live with cancer between countries? Has this changed over the years?
+*I think an interesting question could be how infectious diceases spread, looking at deaths/incidences by year and geographical location.
+Lots of opportunities for visualisation.
+Research questions could include:
+  - Identifying vectors for spread of disease: Over geographical land borders, trade routes, airports...
+  - Can we observe regional or even global epidemics/spikes in mortality or infections?
+  - If so, is there periodicity in epidemics? Where do they start, how fast do they spread from there?
+  - Could possible disease epidemics be predicted? Could we identify risk factors?
+
 
 **Notes**
 * This data set is extremely broad and contains very much information. I have restricted the research questions to cancer and cardiovascular diseases here, because I think we will have to restrict ourselves, but we can also change it to some other diseases or disabilities.
 * See http://www.healthdata.org/sites/default/files/files/Data_viz/GBD_2017_Tools_Overview.pdf for more information about what is in this dataset.
 * I think this information can be very interesting to present to the public. There are also many possibilities to expand our search, where the other datasets are (in my opinion) more limited.
 * We can also try to link this information with other demographic information about countries (e.g. alcohol consumption, health budgets, ...), that is not necessarily included in this dataset.
+
