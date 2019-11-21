@@ -52,7 +52,7 @@ Link: http://ghdx.healthdata.org/gbd-2017 (http://ghdx.healthdata.org/gbd-result
 * Did this change over the years? (data from 1990 to 2017)
 * Is there a link between higher prevalence of these diseases and certain risk factors? (e.g. diet, pollution, occupational hazards, ...)
 * How many people are contracting cancer/a cardiovascular disease each year, how many are living with it in a controlled fashion, and how many are dying from it each year? Is there a difference in how long people live with cancer between countries? Has this changed over the years?
-*I think an interesting question could be how infectious diceases spread, looking at deaths/incidences by year and geographical location.
+* I think an interesting question could be how infectious diceases spread, looking at deaths/incidences by year and geographical location.
 Lots of opportunities for visualisation.
 Research questions could include:
   - Identifying vectors for spread of disease: Over geographical land borders, trade routes, airports...
