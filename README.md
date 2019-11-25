@@ -14,38 +14,25 @@ In short, our goal is to refine medical data and extract useful information from
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
 
 **Imaging data:** <br>
-A large portion of medical data that is being stored is imageging data, especially 3D imaging data from MRI & CT scans takes up a lot of space. Since image data is not in the scope of this course this will not be the main focus of this project, however, as an extra it will also be explored.
+A large portion of medical data that is being stored is imageging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory. Since image data is not in the scope of this course, this will not be the main focus of the project.
 
 
 # Dataset
-"The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
-
-Some other candidates:
-
-### Nicer 
-* https://www.nicer.org/en/data/nicer-database/
-
-
-The nicer dataset contains cancer data (type of cancer, diagnosis, death...) for Switzerland by cantons. It seems to be complete and well organized. It respects medial naming conventions.
-We need to request the access. 
-
-You can find the description of it here : https://www.nicer.org/assets/files/data/ncd_4.1_abbrev_version_201706.pdf
 
 ### Ghdx health data 
 * http://ghdx.healthdata.org/?fbclid=IwAR3PlLKVO_eOGYSjjPvuhDMzhpsCZC_WnYslJPYmOc7NgqC84XplYkVS-jU
 
-# A list of internal milestones up until project milestone 2
+### Cardiovascular disease
+* https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
 
-## Data exploration 
-* Request the datasets mentioned above. Find alternatives if we can't get them. 
-* Start exploring and cleaning the different datasets, find additional sources of data if needed. 
-* Compare and confront the different datasets
+### Breast cancer
+* https://www.kaggle.com/hdza1991/breast-cancer-wisconsin-data-set
+* https://www.kaggle.com/yuqing01/breast-cancer
 
-## Research questions 
-* From this, refine the exploration ideas and the research question.
+### Imaging data
+"The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
-## General & team management  
-* Package the work and define tasks and a more precise timeline. 
-* We will refine or list of internal milestone with the data we get
-* Refresh on Spark 
+
+# A list of internal milestones up until project milestone 3
+
 
