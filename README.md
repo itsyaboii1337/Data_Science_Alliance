@@ -7,48 +7,12 @@ As (nascent) data scientists we recognize that this medical data may contain inf
 In short, our goal is to refine medical data and extract useful information from it.
 
 # Research questions
-There's a lot of different questions one could ask depending on the considered data.
-An example file is provided in this repository where the LIDC-IDRI dataset is briefly explored and some questions are investigated (results below). This dataset contains 1013 thoracic CT scans, and 2669 lung nodules (tumors) annotated by 4 different radiologists. Additionally some spreadsheets are provided which contain more information regarding count, size and malignancy of the tumors.
 
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width="800" height="400">
-
-
-**Somme possible research questions:**
-
-* Is there a strong correlation between shape of tumors and their malignancy?
-
-It is commonly known that malignant tumors have an anarchic shape while benign tumors tend to be more spherical. This could be verified/quantified using this dataset. The annotations can be turned into 3D shapes of which the sphericity can be determined.
-
-![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/Sphericity.png)
-
-* How well do the diagnosis agree of different radiologists and do they contract each other?
-
-This specific dataset is particularly interesting for machine learning and computer aided diagnosis, which is something that could be explored in this project if this is an added value. Either way, because the diagnosis was performed by 4 radiologists independently one could look at the variance between the annotations of different radiologists and showcase the inconsistency of diagnosis between different radiologists. This problem may be much less prevalent when a computer performs this task.
-
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/annotations.png" alt="alt text" width="380" height="350">
-
-* Are there certain regions in the lungs that are more likely to develop lung tumors or are they rather homogeneously distributed?
-
-Adding up all the annotations could provide insight into which areas of the lungs are most likely to develop tumors and result in a sort of "probability map" within a standardized lung volume
-
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/prob_map.png" alt="alt text" width="300" height="300">
-
-
-* Is there a correlation between BMI and the prevalence of lung cancer?
-
-Since the scale of each scan is known, one could estimate, for example, the size/BMI of the patient and find correlation with the annotated tumors. For simplicity I tried this by segmenting the lungs and using the lung volume instead.
-
-![alt text](https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/corr.png)
-
-In this case a Pearson correlation of -0.03 was found, which is rather insignificant.
-
-Note: see Some_Examples.ipynb for further details on these results and how they could be improved in the future.
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="500" height="700">
 
 
 # Dataset
 "The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
-
-WE SHOULD TRY TO FIND MORE MEDICAL DATA, PERHAPS NOT IMAGING DATA.
 
 Some other candidates:
 
@@ -79,5 +43,3 @@ You can find the description of it here : https://www.nicer.org/assets/files/dat
 * We will refine or list of internal milestone with the data we get
 * Refresh on Spark 
 
-# Questions for TAa
-It would be nice to have another source of medical data, perhaps not imaging data, does anyone happen to have a suggestion?
