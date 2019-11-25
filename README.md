@@ -29,7 +29,8 @@ A large portion of medical data that is being stored is imaging data, especially
 # Dataset
 
 ### Ghdx health data 
-* http://ghdx.healthdata.org <br>
+* http://ghdx.healthdata.org
+
 Wealth of global medical data.
 
 ### Cardiovascular disease
@@ -41,7 +42,8 @@ Wealth of global medical data.
 (A lot of breast cancer imaging data can also be found in the TCIA)
 
 ### Imaging data
-https://www.cancerimagingarchive.net/ <br>
+* https://www.cancerimagingarchive.net/
+
 "The Cancer Imaging Archieve (TCIA)" contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
 
