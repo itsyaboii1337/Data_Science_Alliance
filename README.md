@@ -7,8 +7,8 @@ As (nascent) data scientists we recognize that this medical data may contain inf
 In short, our goal is to refine medical data and extract useful information from it.
 
 # Research questions
-
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="500" height="700">
+<p align="center">
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="600" height="770"></p>
 
 
 # Dataset
