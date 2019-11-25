@@ -48,7 +48,7 @@ Wealth of global medical data.
 "The Cancer Imaging Archieve (TCIA)" contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
 # Achievements at milestone 2
+An overview of all the work that has been done so far can be found in the notebook DataExploration.ipynb.
 
 # A list of internal milestones up until project milestone 3
-
 
