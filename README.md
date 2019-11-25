@@ -14,7 +14,7 @@ In short, our goal is to refine medical data and extract useful information from
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
 
 **Imaging data:** <br>
-A large portion of medical data that is being stored is imaging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory. Since image data is not in the scope of this course, this will not be the main focus of the project. But it will still be explored as an extra.
+Since image data is not in the scope of this course, this will not be the main focus of the project. However, a large portion of medical data that is being stored is imaging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory.  Therefore, it will be explored how information can be gained from medical imaging data as an extra to this project.
 
 <p align="center">
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width=650" height="325">
