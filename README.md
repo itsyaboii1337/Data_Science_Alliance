@@ -47,6 +47,11 @@ Wealth of global medical data.
 
 "The Cancer Imaging Archieve (TCIA)" contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
+### Economical data (GDP per capita) 
+
+* https://data.worldbank.org/indicator/ny.gdp.pcap.cd
+
+
 # Achievements at milestone 2
 An overview of all the work that has been done so far can be found in the notebook **Milestone2.ipynb**. Unfortunately, the interactive plots and maps cannot be rendered without the notebook showing. The maps are, however, visible in the HTML file DataExploration.html.
 
