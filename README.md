@@ -14,7 +14,7 @@ In short, our goal is to refine medical data and extract useful information from
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
 
 **Imaging data:** <br>
-A large portion of medical data that is being stored is imaging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory. Since image data is not in the scope of this course, this will not be the main focus of the project.
+Since image data is not in the scope of this course, this will not be the main focus of the project. However, a large portion of medical data that is being stored is imaging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory.  Therefore, it will be explored how information can be gained from medical imaging data as an extra to this project.
 
 <p align="center">
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width=650" height="325">
@@ -47,8 +47,13 @@ Wealth of global medical data.
 
 "The Cancer Imaging Archieve (TCIA)" contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
+### Economical data (GDP per capita) 
+
+* https://data.worldbank.org/indicator/ny.gdp.pcap.cd
+
+
 # Achievements at milestone 2
-An overview of all the work that has been done so far can be found in the notebook DataExploration.ipynb. Unfortunately, the interactive plots and maps cannot be rendered without the notebook showing. The maps are, however, visible in the HTML file DataExploration.html.
+An overview of all the work that has been done so far can be found in the notebook **Milestone2.ipynb**. Unfortunately, the interactive plots and maps cannot be rendered without the notebook showing. The maps are, however, visible in the HTML file DataExploration.html.
 
 # A list of internal milestones up until project milestone 3
 For the different research questions, the following things will be done:
