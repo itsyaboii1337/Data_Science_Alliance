@@ -11,6 +11,9 @@ In short, our goal is to refine medical data and extract useful information from
 <p align="center">
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="600" height="780"></p>
 
+**Imaging data:**
+
+
 
 # Dataset
 "The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
