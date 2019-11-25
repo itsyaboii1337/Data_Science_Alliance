@@ -16,11 +16,21 @@ In short, our goal is to refine medical data and extract useful information from
 **Imaging data:** <br>
 A large portion of medical data that is being stored is imageging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory. Since image data is not in the scope of this course, this will not be the main focus of the project.
 
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width="800" height="400">
+
+* Is there a strong correlation between shape of tumors and their malignancy?
+* How well do the diagnosis agree of different radiologists and do they contract each other?
+* Are there certain regions in the lungs that are more likely to develop lung tumors or are they rather homogeneously distributed?
+* Is there a correlation between BMI and the prevalence of the cancer?
+
+<p align="center">
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
 
 # Dataset
 
-### Ghdx health data 
-* http://ghdx.healthdata.org/?fbclid=IwAR3PlLKVO_eOGYSjjPvuhDMzhpsCZC_WnYslJPYmOc7NgqC84XplYkVS-jU
+### Ghdx health data 
+* http://ghdx.healthdata.org
+Wealth of global medical data.
 
 ### Cardiovascular disease
 * https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
@@ -28,9 +38,11 @@ A large portion of medical data that is being stored is imageging data, especial
 ### Breast cancer
 * https://www.kaggle.com/hdza1991/breast-cancer-wisconsin-data-set
 * https://www.kaggle.com/yuqing01/breast-cancer
+(A lot of breast cancer imaging data can also be found in the TCIA)
 
 ### Imaging data
-"The Cancer Imaging Archieve (TCIA)" https://www.cancerimagingarchive.net/ contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
+https://www.cancerimagingarchive.net/
+"The Cancer Imaging Archieve (TCIA)" contains a wealth of medical imaging data in a large variety of different forms (CT, MRI, microscopic biopsy, radiographs, ...)
 
 
 # A list of internal milestones up until project milestone 3
