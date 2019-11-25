@@ -13,7 +13,7 @@ In short, our goal is to refine medical data and extract useful information from
 <p align="center">
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
 
-**Imaging data:**
+**Imaging data:** <br>
 A large portion of medical data that is being stored is imageging data, especially 3D imaging data from MRI & CT scans takes up a lot of space. Since image data is not in the scope of this course this will not be the main focus of this project, however, as an extra it will also be explored.
 
 
