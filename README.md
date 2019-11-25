@@ -8,7 +8,7 @@ In short, our goal is to refine medical data and extract useful information from
 
 # Research questions
 <p align="center">
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="500" height="650"></p>
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="600" height="750"></p>
 
 
 # Dataset
