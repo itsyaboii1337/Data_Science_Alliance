@@ -57,7 +57,7 @@ An overview of all the work that has been done so far can be found in the notebo
 
 In part 4, countries have been grouped together by hierarchial clustering. Unfortunately, the plots of these groupings do not show, for unknown reasons. This issue will be solved as soon as possible. 
 
-In part 5, the data notebook could not be compiled due to technichal issues. The solution to these issues is known, but it cannot be done in time for deadline.
+In part 5, the data notebook could not be compiled due to technichal issues. The solution to these issues is known, but it cannot be done in time for deadline. (fixed now)
 
 # A list of internal milestones up until project milestone 3
 For the different research questions, the following things will be done:
