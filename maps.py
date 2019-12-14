@@ -3,6 +3,7 @@
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
+from fuzzywuzzy import process
 
 
 #Some constants for colors and theme
@@ -84,3 +85,32 @@ def slider_map(df, z_col_name, title, country_col_name = 'country', zmin = 0, zm
         template=THEME
     )
     fig.show()
+
+
+def match_names(countryNames, countryNames2, similarity_limit=65):
+    countryNames = np.unique(countryNames)
+    countryNames2 = np.unique(countryNames2)
+    missingPair = np.setdiff1d(countryNames, countryNames2)
+    missingPairs2 = np.setdiff1d(countryNames2, countryNames)
+    pairs = []
+    similarities = []
+    for name in missingPair:
+        pair, similairity = process.extractOne(name, missingPairs2)
+        pairs.append(pair)
+        similarities.append(similairity)
+    for i in range(len(pairs)):
+        pairDf = pd.DataFrame({'Country': missingPair, 'Replacement': pairs, 'Similarity': similarities})
+        noFound = pairDf[pairDf['Similarity'] <= similarity_limit]
+        print("No matches found for:")
+        for name in noFound["Country"]:
+            print(name)
+        pairDf = pairDf[pairDf['Similarity'] > similarity_limit]
+        pairDf = pairDf.reset_index(drop=True)
+    return pairDf
+
+
+def replace_names(df, old, new):
+    dfNew = df.replace(list(old.values), list(new.values))
+    for i in range(len(new)):
+        print("Replaced", old[i], "with", new[i])
+    return dfNew
