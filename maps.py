@@ -32,7 +32,7 @@ def slider_map(df, z_col_name, title, country_col_name = 'country', zmin = 0, zm
 
 
         # I select the year (and remove DC for now)
-        df_year = map_test[(df[year_col]== year )]
+        df_year = df[(df[year_col]== year )]
 
         ### create the dictionary with the data for the current year
         data_one_year = dict(
