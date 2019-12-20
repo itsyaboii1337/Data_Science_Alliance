@@ -50,20 +50,27 @@ For each contributer in approximately chronological order
 ### Nathan Sennesael:
 * Medical imageing analysis (discarded)
 * Cardiovascular disease analysis
-* 
-* Making of the DataStory
+* Data explorations and Initial world maps for impact of diseases
+* Skeleton code and layout of DataStory + writing
 
 ### Ruben Janssens
-* 
+* Further analysis on impact of disease
+* Measures for the effects of diseases
+* Further analysis on risk factor analysis
+* Cleaning up and writing notebook and DataStory
 
 ### Joakim Kattelus
-* Clustering 
+* Clustering algorithm
+* Correlations between countries
+* ML model on risk factors
+* Writting on DataStory
 
 
 ### Aurelien Gabriel Debbas
 * Economic analysis
-* Master of plotly
-* 
+* Making beautiful visualizations with plotly
+* Interactive plots that can be imbedded in the datastory
+* Writing on DataStory
 
 
 
