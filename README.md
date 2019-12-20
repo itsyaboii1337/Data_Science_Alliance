@@ -1,5 +1,7 @@
 # Applying data analysis on medical data to help improve society's quality of life
 
+Our DataStory:
+
 https://senneschal.github.io/DataStory/
 
 # Research questions
@@ -7,7 +9,7 @@ https://senneschal.github.io/DataStory/
 **Globalized view of medical data:**
 
 <p align="center">
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="500" height="680"></p>
 
 # Dataset
 
@@ -36,12 +38,7 @@ Wealth of global medical data.
 
 
 # Achievements at milestone 2
-An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb**. Unfortunately, the interactive plots and maps cannot be rendered without the notebook showing. The maps are, however, visible in the HTML file DataExploration.html.
-
-In part 4, countries have been grouped together by hierarchial clustering. Unfortunately, the plots of these groupings do not show, for unknown reasons. This issue will be solved as soon as possible. 
-
-In part 5, the data notebook could not be compiled due to technichal issues. The solution to these issues is known, but it cannot be done in time for deadline. (fixed now)
-
+An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb** in the "previous notebooks" folder.
 
 # All achievements at milestone 3
 
@@ -71,3 +68,7 @@ For each contributer in approximately chronological order.
 * Making beautiful visualizations with plotly
 * Interactive plots that can be imbedded in the datastory
 * Writing into the DataStory
+
+## Poster presentation:
+Every group member is motivated to make a nice poster to finalize this project. <br>
+We have not yet assigned specific tasks for this since we prefer to stay flexible.
