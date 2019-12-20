@@ -38,7 +38,7 @@ Wealth of global medical data.
 
 
 # Achievements at milestone 2
-An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb**.
+An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb** in the "previous notebooks" folder.
 
 # All achievements at milestone 3
 
