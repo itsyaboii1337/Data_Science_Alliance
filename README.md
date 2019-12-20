@@ -1,5 +1,7 @@
 # Applying data analysis on medical data to help improve society's quality of life
 
+Our DataStory:
+
 https://senneschal.github.io/DataStory/
 
 # Research questions
@@ -71,3 +73,7 @@ For each contributer in approximately chronological order.
 * Making beautiful visualizations with plotly
 * Interactive plots that can be imbedded in the datastory
 * Writing into the DataStory
+
+## Poster presentation:
+Every group member is motivated to make a nice poster to finalize this project. <br>
+We have not yet assigned specific tasks for this since we prefer to stay flexible.
