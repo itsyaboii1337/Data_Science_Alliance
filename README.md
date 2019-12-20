@@ -50,7 +50,7 @@ For each contributer in approximately chronological order
 ### Nathan Sennesael:
 * Medical imageing analysis (discarded)
 * Cardiovascular disease analysis
-* Risk analysis
+* 
 * Making of the DataStory
 
 ### Ruben Janssens
