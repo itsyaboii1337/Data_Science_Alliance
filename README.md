@@ -38,12 +38,7 @@ Wealth of global medical data.
 
 
 # Achievements at milestone 2
-An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb**. Unfortunately, the interactive plots and maps cannot be rendered without the notebook showing. The maps are, however, visible in the HTML file DataExploration.html.
-
-In part 4, countries have been grouped together by hierarchial clustering. Unfortunately, the plots of these groupings do not show, for unknown reasons. This issue will be solved as soon as possible. 
-
-In part 5, the data notebook could not be compiled due to technichal issues. The solution to these issues is known, but it cannot be done in time for deadline. (fixed now)
-
+An overview of all the work that has been done at this point can be found in the notebook **Milestone2.ipynb**.
 
 # All achievements at milestone 3
 
