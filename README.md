@@ -45,7 +45,7 @@ In part 5, the data notebook could not be compiled due to technichal issues. The
 
 # All achievements at milestone 3
 
-For each contributer in approximately chronological order
+For each contributer in approximately chronological order.
 
 ### Nathan Sennesael:
 * Medical imageing analysis (discarded)
