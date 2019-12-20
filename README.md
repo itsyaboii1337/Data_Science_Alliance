@@ -47,7 +47,7 @@ For each contributer in approximately chronological order.
 ### Nathan Sennesael:
 * Medical imageing analysis (discarded)
 * Cardiovascular disease analysis
-* Data explorations and Initial world maps for impact of diseases
+* Data explorations and initial world maps for impact of diseases
 * Skeleton code and layout of DataStory + writing
 
 ### Ruben Janssens
