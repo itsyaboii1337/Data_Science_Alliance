@@ -1,5 +1,7 @@
 # Applying data analysis on medical data to help improve society's quality of life
 
+Our notebook is the Milestone3 notebook.
+
 Our DataStory:
 
 https://senneschal.github.io/DataStory/
