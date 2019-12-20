@@ -9,7 +9,7 @@ https://senneschal.github.io/DataStory/
 **Globalized view of medical data:**
 
 <p align="center">
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
+<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="500" height="750"></p>
 
 # Dataset
 
