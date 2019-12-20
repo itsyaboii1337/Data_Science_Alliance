@@ -85,6 +85,7 @@ def slider_map(df, z_col_name, title, country_col_name = 'country', zmin = 0, zm
         template=THEME
     )
     fig.show()
+    return fig
 
 
 def match_names(countryNames, countryNames2, similarity_limit=65):
