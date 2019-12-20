@@ -1,10 +1,6 @@
 # Applying data analysis on medical data to help improve society's quality of life
 
-# Abstract
-Large hospitals can generate up to hundreds of terabytes of medical data each year and this amount only increases with time.
-In many countries (almost all developed countries), hospitals are by law required to store this medical data for 5 to 10 years.
-As (nascent) data scientists we recognize that this medical data may contain information that could help improve society's quality of life. Unfortunately the great majority of medical data is simply stored and never used as a result of privacy laws and regulations. However, this consensus is starting to shift and effort is being made to help the medical field reap the benefits of Data Science.
-In short, our goal is to refine medical data and extract useful information from it.
+https://senneschal.github.io/DataStory/
 
 # Research questions
 
@@ -12,19 +8,6 @@ In short, our goal is to refine medical data and extract useful information from
 
 <p align="center">
 <img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/scheme.png" alt="alt text" width="700" height="910"></p>
-
-**Imaging data:** <br>
-Since image data is not in the scope of this course, this will not be the main focus of the project. However, a large portion of medical data that is being stored is imaging data, especially 3D imaging data from MRI & CT scans takes up a lot of memory.  Therefore, it will be explored how information can be gained from medical imaging data as an extra to this project.
-
-<p align="center">
-<img src="https://github.com/Senneschal/Data_Science_Alliance/blob/master/Images/ctscan.png" alt="alt text" width=650" height="325">
-</p>
-
-* Is there a strong correlation between shape of tumors and their malignancy?
-* How well do the diagnosis agree of different radiologists and do they contract each other?
-* Are there certain regions in the lungs that are more likely to develop lung tumors or are they rather homogeneously distributed?
-* Is there a correlation between BMI and the prevalence of the cancer?
-
 
 # Dataset
 
