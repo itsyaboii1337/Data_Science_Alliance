@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="500px" viewBox="0 0 700 500" enable-background="new 0 0 700 500" xml:space="preserve">
+<rect x="0" y="0" fill="#FFFFFF" width="700" height="500"/>
+<g>
+	<g>
+		<g>
+			<g>
+				<path stroke="#EBF0F8" d="M403.84,100v76.837"/>
+				<path stroke="#EBF0F8" d="M520.672,100v76.837"/>
+			</g>
+		</g>
+		<g>
+			<path stroke="#EBF0F8" stroke-width="2" d="M287,100v76.837"/>
+		</g>
+		<path stroke="#EBF0F8" stroke-width="2" d="M0,0"/>
+		<path stroke="#EBF0F8" stroke-width="2" d="M0,0"/>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="574" y="200" width="333" height="76.837"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				<g transform="translate(287, 100)" clip-path="url(#SVGID_2_)">
+					<g>
+						<g opacity="0.6">
+							<g>
+								<g>
+									<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M0,74.67V62.48H106.81v12.19H0z"/>
+								</g>
+								<g>
+									<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M0,59.43V47.24h124.9v12.19H0z"/>
+								</g>
+								<g>
+									<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M0,44.19V32H170.47V44.19H0z"/>
+								</g>
+								<g>
+									<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M0,28.95V16.76h285.78v12.19H0z"/>
+								</g>
+								<g>
+									<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M0,13.71V1.52H316.35v12.19H0z"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path fill="none" d="M0,0"/>
+		<path fill="none" d="M0,0"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 283.1863 188.3333)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">0</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 391.1541 188.3333)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">50M</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 504.1697 188.3333)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">100M</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 107.823 172.7698)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">Diabetes and kidney diseases</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 77.8406 157.5295)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">Other non-communicable diseases</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 152.1375 142.3)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">Neurological disorders</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 186.2742 127.0598)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">Mental disorders</text>
+			</g>
+			<g>
+				<text transform="matrix(1 0 0 1 131.9226 111.8196)" fill="#2A3F5F" font-family="'Verdana'" font-size="12">Musculoskeletal disorders</text>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 35.0002 50.0002)" fill="#2A3F5F" font-family="'Verdana'" font-size="17">YLDs (Years Lived with Disability)</text>
+	</g>
+</g>
+<g>
+	<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M289,174.994v-12.19H395.81v12.19H289z"/>
+</g>
+<g>
+	<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M289,159.754v-12.19h124.9v12.19H289z"/>
+</g>
+<g>
+	<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M289,144.513v-12.189H459.47v12.189H289z"/>
+</g>
+<g>
+	<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M289,129.274v-12.19h285.78v12.19H289z"/>
+</g>
+<g>
+	<path fill="#9ECAE1" stroke="#FFFFFF" stroke-width="1.5" d="M289,114.034v-12.19H605.35v12.19H289z"/>
+</g>
+</svg>
